@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>Recetas</title>
   </head>
-  <body>
+  <body background="imagenes/fondo2.jpeg" width="100%">
     <?php require_once "header.php"; ?>
     <main>
       <br>
