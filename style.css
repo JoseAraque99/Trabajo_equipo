@@ -1,0 +1,32 @@
+#body{
+    background-color: #f3eb65;
+}
+.tips{
+    padding-left: 20%;
+    
+   
+}
+.ingredientes{
+    background-color: rgb(216, 24, 49);
+    padding-left: 40%;
+}
+.elaboracion{
+    background-color: rgb(5, 155, 12);
+   
+}
+#titulo_elaboracion{
+    text-align: center;
+}
+.lista{
+    padding-left: 20%;
+}
+.tips_section{
+    background-color: coral;
+}
+#titulo_tips{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    background-color: rgb(11, 96, 148);
+}
